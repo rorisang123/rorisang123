@@ -1,8 +1,8 @@
 - 👋 Hi, I’m RORISANG
-- 👀 I’m interested in finTech and building cloud native apps
-- 🌱 I’m currently learning GO and Kubernetes
-- 💞️ I’m looking to collaborate on bite-sized FinTech apps
-- 📫 How to reach me: school email - 35406895@student.g.nwu.ac.za
+- 👀 I’m interested in building microapps that use AI
+- 🌱 I’m currently learning PyTorch and Docker
+- 💞️ I’m looking to collaborate on bite-sized AI / 4IR proects
+- 📫 How to reach me: school email - roriiisang@gmail.com
 
 <!---
 rorisang123/rorisang123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
