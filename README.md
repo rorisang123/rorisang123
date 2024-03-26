@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RORISANG
-- 👀 I’m interested in building microapps that use AI
-- 🌱 I’m currently learning PyTorch and Docker
-- 💞️ I’m looking to collaborate on bite-sized AI / 4IR proects
+- 👀 I’m interested in building micro apps that use AI
+- 🌱 I’m currently learning Machine Learning and PyTorch
+- 💞️ I’m looking to collaborate on bite-sized AI / 4IR projects
 - 📫 How to reach me: roriiisang@gmail.com
 
 <!---
